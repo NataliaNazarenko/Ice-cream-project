@@ -1,21 +1,21 @@
 {
-  "name": "codebusters",
+  "name": "Ice_cream_project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ruudyaa.github.io/codebusters",
+  "homepage": "https://NataliaNazarenko.github.io/Ice_cream_project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /codebusters/"
+    "build": "parcel build src/*.html --public-url /Ice_cream_project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ruudyaa/codebusters.git"
+    "url": "git+https://github.com/NataliaNazarenko/Ice_cream_project.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ruudyaa/codebusters/issues"
+    "url": "https://github.com/NataliaNazarenko/Ice_cream_project/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
