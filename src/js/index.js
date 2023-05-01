@@ -5,4 +5,4 @@ import './slick';
 import './smooth-anchor-scroll';
 import './scroll_off';
 import './scroll-to-animation';
-import './input';
+// import './input';
