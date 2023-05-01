@@ -21,9 +21,6 @@
             name="name"
             id="name"
             type="text"
-            value="name"
-            required
-            pattern="^[a-zA-Z]+\s[a-zA-Z]+$"
             title="Username must be two words separated by space."
             placeholder=" "
           />
@@ -33,13 +30,9 @@
           <input
             class="form-contacts__input"
             name="tel"
-            value="tel"
             id="tel"
-            required
-            type="tel"
             title="Phone number must be 12 symbols (380XXXXXXXXX)."
             placeholder=" "
-            pattern="^[\+]?3?[\s]?8?[\s]?\(?0\d{2}?\)?[\s]?\d{3}[\s|-]?\d{2}[\s|-]?\d{2}$"
           />
           <label for="tel" class="form-contacts__label">Phone</label>
         </div>
@@ -49,11 +42,8 @@
             name="email"
             id="email"
             type="email"
-            value="email"
-            required
             autocomplete="off"
             placeholder=" "
-            pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
           />
           <label for="email" class="form-contacts__label">Email</label>
         </div>
@@ -69,8 +59,7 @@
         </div>
       </div>
     </form>
-    <button class="franchise__button-submit" type="submit">Submit</button>
+    <button class="franchise__button-submit submit" type="submit">Submit</button>
   </div>
 </div>
 <div class="overlay js-overlay-modal"></div>
-<!--test-->
