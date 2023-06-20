@@ -1,21 +1,21 @@
 {
-  "name": "Ice_cream_project",
+  "name": "Ice-cream-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://NataliaNazarenko.github.io/Ice_cream_project",
+  "homepage": "https://NataliaNazarenko.github.io/Ice-cream-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Ice_cream_project/"
+    "build": "parcel build src/*.html --public-url /Ice-cream-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NataliaNazarenko/Ice_cream_project.git"
+    "url": "git+https://github.com/NataliaNazarenko/Ice-cream-project.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NataliaNazarenko/Ice_cream_project/issues"
+    "url": "https://github.com/NataliaNazarenko/Ice-cream-project/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
